@@ -1,0 +1,9 @@
+**/.idea
+**/build
+**/nbproject
+**/test
+*.xml
+*.mf
+*.mp3
+*.txt
+**/CSE214_prv_HWs
